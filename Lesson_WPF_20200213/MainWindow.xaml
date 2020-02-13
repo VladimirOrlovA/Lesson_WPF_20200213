@@ -16,7 +16,7 @@
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition> 
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0">
